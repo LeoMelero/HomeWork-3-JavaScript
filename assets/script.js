@@ -46,21 +46,21 @@ function generatePassword() {
   return passwordArr.join("")
 }
 
-function lengthRange(inputtxt, minlength, maxlength)
-{
-  var userInput = inputtxt.value;
-  if(userInput.length >=minlenght && userInput.length <=maxlength)
-    {
-      return true;
-    }
-    else
-    {
-      alert("8" +minlength+ "128" +maxlength+ "nummbers");
-        return false;
-    }
+// function lengthRange(inputtxt, minlength, maxlength);
+// {
+//   var userInput = inputtxt.value;
+//   if(userInput.length >=minlenght && userInput.length <=maxlength)
+//     {
+//       return true;
+//     }
+//     else
+//     {
+//       alert("8" +minlength+ "128" +maxlength+ "nummbers");
+//         return false;
+//     }
 
 
-}
+// }
  
     
 
