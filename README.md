@@ -5,4 +5,4 @@
 
 ### Useage
     Its a way for someone to generate a random password.
-   
+   ![](./Assest/image/screenshot.png)
